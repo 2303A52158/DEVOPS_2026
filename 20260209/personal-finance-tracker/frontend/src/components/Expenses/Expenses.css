@@ -1,0 +1,38 @@
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 30px;
+}
+
+.summary {
+  background: #eef2ff;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #1e3a8a;
+}
+
+.card {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 12px;
+  border-bottom: 1px solid #e5e7eb;
+  text-align: left;
+}
+
+th {
+  background: #f1f5f9;
+}

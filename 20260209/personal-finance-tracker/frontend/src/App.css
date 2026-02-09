@@ -1,0 +1,21 @@
+.app {
+  background: #f5f7fb;
+  min-height: 100vh;
+}
+
+.app-header {
+  background: #ffffff;
+  padding: 25px 40px;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 32px;
+  color: #111827;
+}
+
+.app-header p {
+  margin-top: 5px;
+  color: #6b7280;
+}
